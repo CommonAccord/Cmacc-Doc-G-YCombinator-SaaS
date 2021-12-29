@@ -2,7 +2,7 @@ Company.=[G/U/Who/acme_incorporated.md]
 
 Customer.=[G/U/Who/quake_incorporated.md]
 
-=[G/YCombinator-SaaS-CmA/Form/0.md]
+=[G/YCombinator-SaaS/Form/0.md]
 
 Note=Basic Changes:
 
@@ -66,4 +66,4 @@ Customer.xSignature=xAbigailAltima-2432432
 
 Customer.Sign.YMD=2021-12-14
 
-=[G/YCombinator-SaaS-CmA/Demo/Acme-Quake-SaaS-2021-11-07.md]
+=[G/YCombinator-SaaS/Demo/Acme-Quake-SaaS-2021-11-07.md]
