@@ -5,6 +5,8 @@ Customer.=[G/U/Who/quake_incorporated.md]
 
 =[G/YCombinator-SaaS/Form/0.md]
 
+Doc.GUID=Acme-Quake-0001
+
 EffectiveDate.YMD=2021-11-07
 
 Fee.Monthly.$=$1,000
@@ -23,7 +25,7 @@ PilotPeriod.days=90 days
 
 PilotUse.Fee.$=$1,000
 
-TC.Service.TechicalSupport.Per.sec={TC.Service.TechicalSupport.Per.ExhibitC.cl}
+TC.Service.TechnicalSupport.Per.sec={TC.Service.TechnicalSupport.Per.ExhibitC.cl}
 
 Law.State.the=the Commonwealth of Massachusetts
 

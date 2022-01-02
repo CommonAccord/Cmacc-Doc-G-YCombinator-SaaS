@@ -4,6 +4,8 @@ Customer.=[G/U/Who/quake_incorporated.md]
 
 =[G/YCombinator-SaaS/Form/0.md]
 
+Doc.GUID=Acme-Quake-0002
+
 Note=Basic Changes:
 
 TC.Service.TechicalSupport.Per.sec={TC.Service.TechicalSupport.Per.ExhibitC.cl}
@@ -18,7 +20,7 @@ TC.Comp.PayWithin.Period.days=fifteen (15) days
 
 TC.Indemnity.Sec=Indemnity Section DELETED
 
-Law.State.the=the State of New Jersey
+Law.State.the=the State of Delaware
 
 Note=Hypothetical Completions
 
